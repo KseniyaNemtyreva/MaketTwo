@@ -20,7 +20,7 @@ body{
 
     max-width: 1117px;
     max-height: 940px;
-    min-width: 1000px;
+    min-width: 1050px;
     min-height: 840px;
     margin-top: -30px;   
 
@@ -111,10 +111,12 @@ body{
     background: #EDFDFF;
     border-radius: 312.159px;
     transform: matrix(-0.5, 0.87, 0.87, 0.5, 0, 0);
+    left: 100px;
 }
 
 .figure__img{
     position: absolute;
+    margin-left: 20px;
 }
 
 .header_title{
