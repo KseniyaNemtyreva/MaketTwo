@@ -107,6 +107,7 @@ body {
     position: absolute;
     width: 807.71px;
     height: 544.93px;
+    margin-left: 100px;
 
     background: #EDFDFF;
     border-radius: 312.159px;
@@ -115,6 +116,7 @@ body {
 
 .figure__img {
     position: absolute;
+    margin-left: 20px;
 }
 
 .header_title {
